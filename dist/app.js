@@ -1,5 +1,4 @@
 "use strict";
-// When called it will cratched the app. so we need to wrapped it in a try catch
 function generateError(message, code) {
     throw { message: message, code: code };
 }
@@ -11,3 +10,4 @@ catch (error) {
     console.log('error: ', error);
 }
 console.log('Done!');
+//# sourceMappingURL=app.js.map

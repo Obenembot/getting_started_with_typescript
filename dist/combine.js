@@ -13,3 +13,4 @@ var combineAges = combine(30, 50);
 console.log(combineAges);
 var combineNames = combine("Sam ", "Oben");
 console.log(combineNames);
+//# sourceMappingURL=combine.js.map

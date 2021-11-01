@@ -6,3 +6,4 @@ var Days;
 })(Days || (Days = {}));
 console.log(Days.Mondays);
 console.log(Days.Tuesday);
+//# sourceMappingURL=enums.js.map
